@@ -1,2 +1,2 @@
-# presentation
-Petite présentation (study)
+# portfolio
+Portfolio (study)
